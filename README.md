@@ -1,89 +1,53 @@
-TODO
-https://github.com/codegoen/spp/projects/1
+<!--
+**shimozuki/shimozuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Sistem Informasi Pembayaran SPP
-> *Mengelola pembayaran SPP dengan sistem informasi.*
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-Sistem Informasi Pembayaran SPP dibuat dengan Framework **Laravel 8** dan **Livewire 2**
 
-### Daftar Isi
-1. [Tentang Sistem Informasi SPP](#tentang)
-2. [Tujuan](#tujuan)
-3. [Cara Install](#cara-install)
-    - [Spesifikasi yang Dibutuhkan](#spesifikasi-minimum-server)
-    - [Tahap Install](#tahap-install)
-4. [Developer dan Kontributor](#developer-dan-kontributor)
-5. [Ingredients (Ramuan)](#ramuan)
-6. [Lisensi](#license)
-7. [Cara Berkontrobusi](#cara-berkontribusi)
-8. [Screenshots](#screenshots)
 
-***
+<!-- # Hii  <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px"> -->
+<h1 align="center">### Hi there, I'm Shimozuki <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px">
+  
+![readmebox (1)](https://github-production-user-asset-6210df.s3.amazonaws.com/34431847/258598204-a4ad0e76-297d-4387-9322-09d83c233689.svg)</h1>
 
-## Tentang
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shimozuki&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=shimozuki)
+## I'm a Web and mobile developer from West Nusa Tenggara, Indonesia
+- 🌱 I’m currently learning Laravel & Flutter
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: play games
 
-**Sistem Informasi Pembayaran SPP** adalah software yang bertujuan untuk mempermudah pelayanan pembayaran pada sekolah. Software ini bisa digunakan untuk Sekolah Dasar/Sederajat, Sekolah Menengah Pertama/Sederajat, Sekolah Menengah Atas/Sederajat.
+### Connect with me:
 
-## Cara Install
-Software ini dapat dipasang dalam server lokal (PC/Laptop) dan server online, dengan spesifikasi berikut :
+[<img align="left" alt="Ahmad Robbiul Iman | facebook" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg"/>][facebook]
+[<img align="left" alt="Ahmad Robbiul Iman | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"/>][instagram]
 
-#### Spesifikasi minimum server
-PHP >= 7.4 (dan memenuhi [server requirement Laravel 8.x](https://laravel.com/docs/8.x/deployment#server-requirements))
+<br />
 
-1. Clone Repo pada terminal : `git clone https://github.com/codegoen/spp-sekolahala.git`
-2. `$ cd spp-sekolahala`
-3. `$ composer install`
-4. `$ cp .env.example .env`
-5. `$ php artisan key:generate`
-6. Buat database pada MySQL untuk aplikasi ini
-7. Setting database pada file `.env`, pada variable `APP_DEMO` ubah menjadi false
-8. `$ php artisan migrate --seed`
-9. `$ php artisan storage:link`
-10. `$ php artisan serve`
-11. Kunjungi web : `http://localhost:8000/app-install`
-12. Login menggunakan email `admin@domain.com` dan password `secret`
-12. Isi formulir installasi.
-13. Selesai, Anda akan login sebagai Super Admin.
+### Languages and Tools:
 
-![Install Sistem Pembayaran SPP](docs/images/setup.png)
+<img align="left" alt="Pop!_OS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
-## Developer dan Kontributor
+<br /> <br/>
 
-Project ini dikembangkan oleh [Rizkhal Lamaau](https://github.com/rizkhal) dan para [kontributor](https://github.com/codegoen/spp-sekolahal/graphs/contributors).
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shimozuki&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
-## Ramuan
-
-Software ini dibangun dengan penuh cinta dan dengan bahan dan dukungan dari paket-paket berikut ini:
-
-##### Backend
-* [livewire](https://laravel-livewire.com/)
-* [maatwebsite/excel](https://laravel-excel.com/)
-* [nwidart/laravel-modules](https://nwidart.com/laravel-modules/v6/introduction)
-
-##### Frontend
-
-* [stisla](https://getstisla.com/), Admin template.
-* [bootstrap4](https://getbootstrap.com/)
-* [font awesome premium](https://kit-pro.fontawesome.com/releases/v5.12.1/css/pro.min.css)
-* [font awesome free](https://www.npmjs.com/package/@fortawesome/fontawesome-free)
-* [select2](https://github.com/select2/select2)
-* [apexcharts](https://apexcharts.com/), Grafik laporan pemasukan dan pengeluaran
-* [sweetalert2](https://sweetalert2.github.io/)
-
-## Lisensi
-
-Project ini merupakan software free dan open source di bawah [lisensi MIT](LICENSE).
-
-## Cara Berkontribusi
-
-Jika ingin berkontribusi terhadap project ini, baik untuk membuat *Issue*, usulan Fitur tambahan, *Pull Request*, maupun donasi, silakan melihat [panduan kontribusi](CONTRIBUTING.md).
-
-## Screenshots
-
-#### Transaksi
-![Transaksi](docs/images/transaction.png)
-
-#### Report
-![Report](docs/images/report.png)
-
-README dibuat dengan refrensi dari [@nafiesl](https://github.com/nafiesl)
+[facebook]: https://www.facebook.com/bi.raja.13/
+[instagram]: https://www.instagram.com/r.obbiul.013/
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,5B5F97,FFC145&title_color=fff&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&bg_color=30,FF6B6C,833ab4&title_color=fff&text_color=fff&layout=compact" />
+</div>
+   
